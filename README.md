@@ -72,7 +72,7 @@ Payment: اتصال به درگاه پرداخت
 API برای اپلیکیشن موبایل
 
 📂 نحوه اجرا پروژه
-git clone https://github.com/your-username/hotel-reservation-system.git
+git clone https://github.com/mobin9229/Hotel/tree/master
 cd hotel-reservation-system
 pip install -r requirements.txt
 python manage.py migrate
